@@ -4,8 +4,6 @@
 **Path:** SOC Level 1
 **Completed:** May 13, 2026
 
-## TL;DR
-
 This room covers the most consistently exploited part of any security stack: people. It walks through why humans are the
 weakest link, how attackers target them through social engineering, and the defensive thinking required to protect
 against attacks that bypass technology by going straight at the user.
