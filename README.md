@@ -9,6 +9,8 @@ and offensive testing.
 ## SOC Level 1 Path
 
 - [01 — SOC Role in Blue Team](./soc-level-1/01-soc-role-in-blue-team.md)
+- [02 — Humans as Vectors of Attack](./soc-level-1/02-humans-as-vectors-of-attack.md)
+- [03 — Systems as a Vector of Attack](./soc-level-1/03-systems-as-vector-of-attack.md)
 
 ## About Me
 
